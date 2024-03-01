@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  color: #F3EFFA;
+  background-color: #09040E;
+  font-family: "Rubik";
+}
+body .container {
+  max-width: 1080px;
+}
+body h2 {
+  font-size: 24px;
+}/*# sourceMappingURL=main.css.map */
