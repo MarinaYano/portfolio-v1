@@ -277,6 +277,9 @@ body p {
   justify-content: end;
   gap: 0.5rem;
 }
+#work .works .weather-app .content .work-links a:link, #work .works .weather-app .content .work-links a:visited {
+  text-decoration: none;
+}
 #work .works .weather-app .content .work-links svg:hover {
   cursor: pointer;
   fill: #6E00E8;
